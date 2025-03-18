@@ -256,6 +256,7 @@ button:focus-visible {
 .content__card-link {
   color: #fff;
   text-decoration: none;
+  display: block;
 }
 
 .content__card-link_current {
